@@ -1,0 +1,2 @@
+run ProyectoTron\ProyectoTron.exe
+pause
